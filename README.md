@@ -9,7 +9,7 @@ Development Team: iSTeeWx_, Audi
 
 ## Introduction
 
-Hello And Welcome to the documentation of Alpine! 
+Hello and Welcome to the Alpine SRC Repo! 
 Here's how to use it!
 
 This guide has all the necessary information to modify Apline to your needs, and even make it your own custom version!
